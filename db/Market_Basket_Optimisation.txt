@@ -1,0 +1,6 @@
+champagne, cookies, oil, cheese
+spaghetti, cookies, chocolate, oil, yogurt, cheese
+cookies, oil, cheese, beef
+cookies, chocolate, chicken, avocado, wine, cheese
+cookies, shrimp, honey, oil, avocado, cheese
+champagne, cookies, honey, oil, cheese
